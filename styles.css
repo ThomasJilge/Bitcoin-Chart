@@ -1,0 +1,10 @@
+.bitcoinOverview {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#myChart {
+    height: 500px;
+    width: 1000px;
+}
